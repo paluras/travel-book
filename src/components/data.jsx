@@ -14,7 +14,7 @@ export default [
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
         startDate: "32 Jan, 2021",
         endDate: "65 Jan, 2021",
-        description: "Moreni kinda sucks, the have a football team tho.",
+        description: "They have a football team ",
         img: "https://source.unsplash.com/JmuyB_LibRo"
     },
     {
